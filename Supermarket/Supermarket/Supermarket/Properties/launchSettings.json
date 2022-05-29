@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Supermarket": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Jason\\source\\repos\\Supermarket\\Supermarket\\bin\\Debug\\netcoreapp3.1",
+      "remoteDebugEnabled": false
+    }
+  }
+}
